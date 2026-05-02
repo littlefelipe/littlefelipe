@@ -98,14 +98,14 @@ Me chamo Felipe de Oliveira Provençano, tenho 21 anos e sou natural do Rio de J
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=littlefelipe&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="./profile/stats.svg" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlefelipe&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="./profile/top-langs.svg"
   />
 
 </p>
